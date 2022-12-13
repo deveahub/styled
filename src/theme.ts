@@ -1,0 +1,51 @@
+const theme = {
+  colors: {},
+  borderWidths: {
+    0: "1px",
+    1: "2px",
+    2: "3px",
+    3: "5px",
+    4: "8px",
+  },
+  sizes: {
+    0: "16px",
+    1: "32px",
+    2: "48px",
+    3: "64px",
+    4: "96px",
+    5: "128px",
+    6: "160px",
+    7: "320px",
+  },
+  radii: {
+    0: "1px",
+    1: "2px",
+    2: "3px",
+    3: "5px",
+    4: "8px",
+  },
+  fontSizes: {
+    "-3": "0.7rem",
+    "-2": "0.8rem",
+    "-1": "0.9rem",
+    0: "1rem",
+    "01": "1.1rem",
+    1: "1.5rem",
+    2: "2rem",
+    3: "3.5rem",
+    4: "4rem",
+    5: "7.5rem",
+  },
+  transitions: {
+    0: "100ms",
+    1: "150ms",
+    2: "400ms",
+    3: "600ms",
+    4: "800s",
+    5: "1s",
+    6: "1.5s",
+    7: "2s",
+  },
+};
+
+export default theme;
